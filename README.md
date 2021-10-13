@@ -1,5 +1,6 @@
 # MLimplementations
 
+**Feel free to submit questions on slack: https://join.slack.com/t/cbdmworkspace/shared_invite/zt-vwpbzhox-CHneZn9uth~iIkB5hEj1qA**
 
 This will be a guide to implementing ML algorithms as can be used for the course CBDM at ITU. The models include:
 1. Clustering (kMeans)
